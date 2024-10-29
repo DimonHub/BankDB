@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+pracownik_id,int,NO,PRI,NULL,auto_increment
+imie,varchar(50),NO,,NULL,
+nazwisko,varchar(50),NO,,NULL,
+pesel,char(11),NO,UNI,NULL,
+data_zatrudnienia,date,NO,,NULL,
+adres_id,int,NO,MUL,NULL,

@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+konto_id,int,NO,PRI,NULL,auto_increment
+klient_id,int,NO,MUL,NULL,
+waluta,char(3),NO,,NULL,
+saldo,"decimal(15,2)",YES,,0.00,
+data_otwarcia,date,NO,,NULL,

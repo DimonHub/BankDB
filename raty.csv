@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+rata_id,int,NO,PRI,NULL,auto_increment
+pozyczka_id,int,NO,MUL,NULL,
+kwota_raty,"decimal(15,2)",NO,,NULL,
+data_splaty,date,NO,,NULL,
+status_splaty,"enum('niesplacona','splacona')",NO,,niesplacona,

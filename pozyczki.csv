@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+pozyczka_id,int,NO,PRI,NULL,auto_increment
+klient_id,int,NO,MUL,NULL,
+pracownik_id,int,NO,MUL,NULL,
+kwota,"decimal(15,2)",NO,,NULL,
+okres_miesiecy,int,NO,,NULL,
+data_pozyczki,date,NO,,NULL,

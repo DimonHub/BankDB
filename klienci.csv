@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+klient_id,int,NO,PRI,NULL,auto_increment
+imie,varchar(50),NO,,NULL,
+nazwisko,varchar(50),NO,,NULL,
+pesel,char(11),NO,UNI,NULL,
+data_urodzenia,date,NO,,NULL,
