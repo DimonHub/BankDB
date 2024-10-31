@@ -1,1 +1,1 @@
-Początkowy tekst
+-- Zmiana z branchB
